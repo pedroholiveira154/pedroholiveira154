@@ -1,4 +1,4 @@
-
+## Hi there!
 ![Coding](./img/banner.png)
 
 I'm a technology enthusiast interested in understanding how things work, solving problems, and turning ideas into practical solutions.
@@ -13,7 +13,7 @@ I'm currently developing my skills in software development, cybersecurity, and I
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,express,dart,flutter,angular,arduino,git,github,vscode" />
@@ -21,9 +21,9 @@ I'm currently developing my skills in software development, cybersecurity, and I
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🍽️ FilaZero — Self-Service Cafeteria Kiosk
+###  FilaZero — Self-Service Cafeteria Kiosk
 
 A school project designed to improve the cafeteria experience through a self-service ordering system.
 
@@ -36,7 +36,7 @@ A school project designed to improve the cafeteria experience through a self-ser
 
 [View repository](https://github.com/pedroholiveira154/totem-cantina)
 
-### 🤖 Robotics — OBR
+###  Robotics — OBR
 
 Participated in the Brazilian Robotics Olympiad (OBR) for two years, mainly contributing to programming, code improvements, robot maintenance, and team preparation.
 
@@ -44,7 +44,7 @@ Our team achieved **10th place among 174 teams** in the competition.
 
 ---
 
-## 💼 Experiences & Activities
+##  Experiences & Activities
 
 - **IT Governance — Vacation Program:** Developed a dashboard to monitor service tickets, resolution times, backlogs, and SLA-related indicators. Also supported ticket resolution and access-permission organization.
 - **Cybersecurity — SENAI:** Studied network fundamentals, common cyber threats, phishing, and malware.
@@ -83,4 +83,4 @@ Our team achieved **10th place among 174 teams** in the competition.
   </a>
 </p>
 
-*"The best way to learn is to build, experiment, and keep improving."*
+*"You don't have a soul, you are a soul and have a body"*
