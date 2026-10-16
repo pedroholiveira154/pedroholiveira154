@@ -1,16 +1,15 @@
-# Hi there! 👋 I'm Pedro Henrique
 
-<img  alt="Coding" src="img/banner.png">
+![Coding](./img/banner.png)
 
 I'm a technology enthusiast interested in understanding how things work, solving problems, and turning ideas into practical solutions.
 
 I'm currently developing my skills in software development, cybersecurity, and IT governance, always looking for opportunities to learn, experiment, and grow.
 
-- 💻 Interested in software engineering, artificial intelligence, and IT governance
-- 🔐 Studied cybersecurity and network fundamentals
-- 🤖 Participated in robotics competitions, working mainly with programming
-- 📊 Built a dashboard for IT Governance during a vacation program
-- 🌱 Always learning and exploring new technologies
+-  Interested in software engineering, artificial intelligence, and IT governance
+-  Studied cybersecurity and network fundamentals
+-  Participated in robotics competitions, working mainly with programming
+-  Built a dashboard for IT Governance during a vacation program
+-  Always learning and exploring new technologies
 
 ---
 
@@ -54,7 +53,7 @@ Our team achieved **10th place among 174 teams** in the competition.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=pedroholiveira154&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=gruvbox" alt="Pedro's GitHub Stats" />
@@ -63,7 +62,7 @@ Our team achieved **10th place among 174 teams** in the competition.
 
 ---
 
-## 🐍 Contribution Activity
+##  Contribution Activity
 
 <p align="center">
   <img src="https://github.com/pedroholiveira154/pedroholiveira154/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
@@ -71,11 +70,16 @@ Our team achieved **10th place among 174 teams** in the competition.
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 <p align="left">
   <a href="https://github.com/pedroholiveira154">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+</p>
+<p align="left">
+  <a href="www.linkedin.com/in/pedro-henrique-oliveira-b63326327">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
 </p>
 
