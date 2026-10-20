@@ -1,5 +1,4 @@
 ## Hi there! I'm Pedro Henrique
-![Coding](./img/exemplo.gif)
 
 I'm a technology enthusiast interested in understanding how things work, solving problems, and turning ideas into practical solutions.
 
